@@ -38,7 +38,8 @@ All tiles are OK
 
 ### Invalid entries:
 
-```Enter row [1]: 295743861
+```
+Enter row [1]: 295743861
 Enter row [2]: 431865927
 Enter row [3]: 876192543
 Enter row [4]: 387459216
@@ -47,13 +48,15 @@ Enter row [6]: 549216738
 Enter row [7]: 76352418a
 Enter row [8]: 928671324
 Enter row [9]: 154938672
+````
 
 ### Result:
 
-```Invalid row [7]: '76352418a'
+```
+Invalid row [7]: '76352418a'
 Invalid row [8]: '928671324'
 Invalid column [8]: '624193827'
 Invalid column [9]: '173658a42'
 Invalid tile [7][7] to [9][9]: '18a324672'
-
+```
 
