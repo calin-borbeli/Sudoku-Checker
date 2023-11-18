@@ -10,9 +10,9 @@ Sudoku is a number-placing puzzle played on a 9x9 board. The player has to fill 
 
 The program reads 9 rows of the Sudoku, each containing 9 digits checking if the data entered are valid then outputs OK if the Sudoku is valid for each rows, columns and tiles, or otherwise indicates the invalid rows, columns or tiles.
 
-Example 1:
+## Example 1:
 
-Valid Entries:
+### Valid Entries:
 
 ```Enter row [1]: 295743861
 Enter row [2]: 431865927
@@ -25,17 +25,17 @@ Enter row [8]: 928671354
 Enter row [9]: 154938672
 
 
-Result:
+### Result:
 
-All rows are OK
+```All rows are OK
 All columns are OK
 All tiles are OK
 
-Example 2:
+## Example 2:
 
-Invalid entries:
+### Invalid entries:
 
-Enter row [1]: 295743861
+```Enter row [1]: 295743861
 Enter row [2]: 431865927
 Enter row [3]: 876192543
 Enter row [4]: 387459216
@@ -45,9 +45,9 @@ Enter row [7]: 76352418a
 Enter row [8]: 928671324
 Enter row [9]: 154938672
 
-Result:
+### Result:
 
-Invalid row [7]: '76352418a'
+```Invalid row [7]: '76352418a'
 Invalid row [8]: '928671324'
 Invalid column [8]: '624193827'
 Invalid column [9]: '173658a42'
