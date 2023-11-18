@@ -48,7 +48,7 @@ Enter row [6]: 549216738
 Enter row [7]: 76352418a
 Enter row [8]: 928671324
 Enter row [9]: 154938672
-````
+```
 
 ### Result:
 
