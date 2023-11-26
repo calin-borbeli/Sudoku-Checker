@@ -1,5 +1,4 @@
-# Sudoku-Checker-Python-Essentials-2-Lab
-
+# Sudoku-Checker
 Sudoku is a number-placing puzzle played on a 9x9 board. The player has to fill the board in a very specific way:
 
 - each row of the board must contain all unique digits from 1 to 9 (the order doesn't matter)
